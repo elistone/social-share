@@ -1,0 +1,21 @@
+{
+    "name": "eli.stone/social-share",
+    "description": "Generate social share previews",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "EliStone\\SocialShare\\": "src/SocialShare/"
+        }
+    },
+    "authors": [
+        {
+            "name": "eli.stone",
+            "email": "eli.stone@amazee.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.4"
+    }
+}
