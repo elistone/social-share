@@ -1,5 +1,16 @@
-# Social Share
-The social share is a library designed to pass in certain content such as title, description, image url & a web url then request a preview will be generated based upon certain social media sites.
+# Social Share Preview
+The social share preview is a library designed to pass in certain content such as title, description, image url & a web url then request a preview will be generated based upon certain social media sites.
+
+## Install
+
+### Composer *Recommend*
+```
+composer require elistone/social-share-preview
+```
+
+### Manually
+
+Download this package manually and add it to your projected
 
 ## Usage
 
@@ -22,7 +33,7 @@ echo $preview->generate();
 
 ## Styling
 
-This libaray contains some basic styling for the generated output this can be found at `css/social-share.css`.
+This library contains some basic styling for the generated output this can be found at `css/social-share-preview.css`.
 
 ## Example
 

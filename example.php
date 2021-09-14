@@ -23,7 +23,7 @@ $preview->setUrl("https://example.com");
 <html>
 <head>
     <title>Example social share page</title>
-    <link rel="stylesheet" href="/css/social-share.css"/>
+    <link rel="stylesheet" href="/css/social-share-preview.css"/>
     <style>
         body {
             width: 700px;
