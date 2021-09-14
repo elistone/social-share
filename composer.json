@@ -1,5 +1,5 @@
 {
-    "name": "eli.stone/social-share",
+    "name": "elistone/social-share-preview",
     "description": "Generate social share previews",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     "authors": [
         {
             "name": "eli.stone",
-            "email": "eli.stone@amazee.com"
+            "email": "eli.stone@amazeelabs.com"
         }
     ],
     "minimum-stability": "dev",
